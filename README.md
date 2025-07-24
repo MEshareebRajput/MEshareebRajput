@@ -6,11 +6,10 @@
 <h3 align="center">👨‍💻 Junior MERN Stack Developer | 🎓 Saylani Mass IT Training Program Graduate | 🌐 Frontend Developer at Jawan Pakistan | 🚀 Passionate about JavaScript and creating dynamic web experiences | 💡 Skilled in React.js & WordPress | 🎯 Focused on building scalable, user-friendly applications.</h3>
 
 
-- 🌱 I’m currently learning **⚛️ Currently learning React.js & React Native at 🎓 Saylani Mass IT Training Program.**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-of-muhammad-eshareeb-rajput.vercel.app/](https://portfolio-of-muhammad-eshareeb-rajput.vercel.app/)
 
-- 💬 Ask me about **HTML ✏️, CSS 🎨, JavaScript 📜, React.js ⚛️, React Native 📱, Node.js 🌐, Express.js ⚙️ , MongoDB 🗄️, Firebase 🔥, Git 🦊 GitHub ☁️**
+- 💬 Ask me about **HTML ✏️, CSS 🎨, JavaScript 📜, React.js ⚛️, Node.js 🌐, Express.js ⚙️, MongoDB 🗄️, Firebase 🔥, WordPress 🖥️, Git 🦊, GitHub ☁️**
 
 - 📫 How to reach me **muhammadeshareeb986@gmail.com**
 
@@ -56,9 +55,10 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
 </p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meshareebrajput&show_icons=true&locale=en&layout=compact" alt="meshareebrajput" /></p>
