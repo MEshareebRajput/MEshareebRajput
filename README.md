@@ -3,7 +3,8 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm MEshareebRajput</h1>
-<h3 align="center">👨‍💻 Junior MERN Stack Developer | 🎓 Saylani Mass IT Training Program Graduate | 🌐 Frontend Developer at Jawan Pakistan | 🚀 Passionate about JavaScript and creating dynamic web experiences | ⚛️ Currently learning React.js & WordPress at 🎓 Saylani Mass IT Training Program | 💡 Focused on building scalable, user-friendly applications.</h3>
+<h3 align="center">👨‍💻 Junior MERN Stack Developer | 🎓 Saylani Mass IT Training Program Graduate | 🌐 Frontend Developer at Jawan Pakistan | 🚀 Passionate about JavaScript and creating dynamic web experiences | 💡 Skilled in React.js & WordPress | 🎯 Focused on building scalable, user-friendly applications.</h3>
+
 
 - 🌱 I’m currently learning **⚛️ Currently learning React.js & React Native at 🎓 Saylani Mass IT Training Program.**
 
