@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" src="https://media.licdn.com/dms/image/v2/D4E16AQGX0Hp1dFpRsA/profile-displaybackgroundimage-shrink_350_1400/B4EZgy65UJHoAg-/0/1753200958939?e=1756339200&v=beta&t=PcgHqD5pkXDF8jn7OwAeV5P_ruyp5srGtneGeaEz-6g" alt="Banner Image" width="1000" height="200" />
+  <img align="center" src="https://media.licdn.com/dms/image/v2/D4E16AQFsKdsetAMOAA/profile-displaybackgroundimage-shrink_350_1400/B4EZqCwUZAIwAc-/0/1763130297340?e=1766016000&v=beta&t=WL1awXUliVICie9NulZ2lD4CnnSUFDFdbyFfjDOFqkQ" alt="Banner Image" width="1000" height="200" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm MEshareebRajput</h1>
