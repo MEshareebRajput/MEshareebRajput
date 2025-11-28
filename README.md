@@ -1,64 +1,74 @@
 <h1 align="center">
-  <img align="center" src="https://media.licdn.com/dms/image/v2/D4E16AQFsKdsetAMOAA/profile-displaybackgroundimage-shrink_350_1400/B4EZqCwUZAIwAc-/0/1763130297340?e=1766016000&v=beta&t=WL1awXUliVICie9NulZ2lD4CnnSUFDFdbyFfjDOFqkQ" alt="Banner Image" width="1000" height="200" />
+  <img align="center" src="https://media.licdn.com/dms/image/v2/D4E16AQFsKdsetAMOAA/profile-displaybackgroundimage-shrink_350_1400/B4EZqCwUZAIwAc-/0/1763130297340?e=1766016000&v=beta&t=WL1awXUliVICie9NulZ2lD4CnnSUFDFdbyFfjDOFqkQ" alt="Banner" width="1000" height="200" />
 </h1>
 
-<h1 align="center">Hi 👋, I'm MEshareebRajput</h1>
-<h3 align="center">👨‍💻 Junior MERN Stack Developer | 🎓 Saylani Mass IT Training Program Graduate | 🌐 Frontend Developer at Jawan Pakistan | 🚀 Passionate about JavaScript and creating dynamic web experiences | 💡 Skilled in React.js & WordPress | 🎯 Focused on building scalable, user-friendly applications.</h3>
+<h1 align="center">Hi 👋, I'm <strong>Muhammad Eshareeb</strong></h1>
+<h3 align="center">
+  Web Developer | WordPress & Shopify Expert | Digital Marketer  
+</h3>
 
+<p align="center">
+  I build modern, responsive and high-conversion websites using <strong>WordPress</strong> and <strong>Shopify</strong>.  
+  I also design professional <strong>logos, posters, flyers</strong> and manage complete <strong>digital marketing campaigns</strong>.  
+  Passionate about creating powerful online identities for businesses.
+</p>
 
+---
 
-- 👨‍💻 All of my projects are available at [https://portfolio-of-muhammad-eshareeb-rajput.vercel.app/](https://portfolio-of-muhammad-eshareeb-rajput.vercel.app/)
+### 🚀 Portfolio  
+🔗 **All my projects:**  
+https://portfolio-of-muhammad-eshareeb-rajput.vercel.app/
 
-- 💬 Ask me about **HTML ✏️, CSS 🎨, JavaScript 📜, React.js ⚛️, Node.js 🌐, Express.js ⚙️, MongoDB 🗄️, Firebase 🔥, WordPress 🖥️, Git 🦊, GitHub ☁️**
+---
 
-- 📫 How to reach me **muhammadeshareeb986@gmail.com**
+### 💬 Ask me about  
+**HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Firebase, WordPress, Shopify, Git, GitHub, Digital Marketing, Canva Designing**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 📫 Contact Me  
+📧 Email — **muhammadeshareeb986@gmail.com**  
+📱 WhatsApp — https://wa.me/923282300151  
+
+---
+
+## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammadeshareeb986/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadeshareeb986/" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/muhammadeshareeb986/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61565379902641" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/eshareebrajput/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:muhammadeshareeb986@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🛠️ Languages & Tools  
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </p>
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meshareebrajput&show_icons=true&locale=en&layout=compact" alt="meshareebrajput" /></p>
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MEshareebRajput&show_icons=true&locale=en&layout=compact" alt="MEshareebRajput" />
+</p>
